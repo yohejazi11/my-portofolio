@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.exo-2-regular {
+    font-family: "Exo 2", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+}
+
+p {
+    font-family: "Exo 2", sans-serif;
+}
+
+
+.shadow-inset-top {
+    box-shadow: inset 10px 12px 20px 8px rgba(0, 0, 0, 0.3);
+
+}
+
+.shadow-inset-project {
+    box-shadow: inset 0px 1px 9px 0px rgba(0, 0, 0, 0.3);
+
+}
+
