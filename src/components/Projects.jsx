@@ -1,7 +1,7 @@
 import ProjectItems from "./ProjectItems"
 function Projects() {
     return (
-        <div id="Projects" className="w-[100%] h-[100vh] bg-[#DD5746] p-[20px]">
+        <div id="Projects" className="w-[100%] h-[100vh] bg-[#DD5746] p-[20px] shadow-inset-section">
             <h1 className="text-[5rem] font-bold text-[#8B322C] p-[20px] max-sm:text-[3rem]">PROJECTS</h1>
 
             <div className="w-[100%] flex flex-col gap-y-[2rem] p-[20px]">

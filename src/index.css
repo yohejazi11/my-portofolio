@@ -25,3 +25,36 @@ p {
 
 }
 
+.button-shadow{
+    box-shadow:  0px 1px 9px 0px rgba(0, 0, 0, 0.3);
+
+}
+
+.card-shadow{
+    box-shadow:  0px 6px 20px 9px rgba(0, 0, 0, 0.3);
+
+}
+
+.shadow-inset-section {
+    box-shadow: inset 0px 1px 9px 20px rgba(0, 0, 0, 0.3);
+
+}
+
+.shadow-inset-less {
+    box-shadow: inset 0px 1px 20px 13px rgba(0, 0, 0, 0.3);
+
+}
+
+.card-shadow-hard{
+    box-shadow:  0px 6px 20px 9px rgba(0, 0, 0, 0.3);
+
+}
+
+.shadow-inset-first-section {
+    box-shadow: inset 22px -29px 20px 0px rgba(0, 0, 0, 0.3);
+
+}
+
+.text-border{
+    text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black;
+}
