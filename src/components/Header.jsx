@@ -16,7 +16,8 @@ function Header() {
                 <ul className="w[100%] h-[100%]">
                     <li className="text-[4rem] font-bold text-[#FFC470] max-sm:text-[2em]">YOUSEF</li>
                     <li className="text-[2.5rem] font-bold text-[#FFC470] hover:text-[#8B322C] max-sm:text-[1.5rem]"><a href="#About">ABOUT</a></li>
-                    <li className="text-[2.5rem] font-bold text-[#FFC470] hover:text-[#8B322C] max-sm:text-[1.5rem]"><a href="#Projects">WORKS</a></li>
+                    <li className="text-[2.5rem] font-bold text-[#FFC470] hover:text-[#8B322C] max-sm:text-[1.5rem]"><a href="#Projects">PROJECTS</a></li>
+                    <li className="text-[2.5rem] font-bold text-[#FFC470] hover:text-[#8B322C] max-sm:text-[1.5rem]"><a href="#Skills">SKILLS</a></li>
                     <li className="text-[2.5rem] font-bold text-[#FFC470] hover:text-[#8B322C] max-sm:text-[1.5rem]"><a href="#Certifications">Certifications</a></li>
                     <li className="text-[2.5rem] font-bold text-[#FFC470] hover:text-[#8B322C] max-sm:text-[1.5rem]"><a href="#Contact">CONTACT</a></li>
                 </ul>

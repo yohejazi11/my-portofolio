@@ -1,9 +1,9 @@
 
 function Skills() {
     return (
-        <div className="w-[100%] flex flex-col p-[20px] shadow-inset-less">
+        <div id="Skills" className="w-[100%] flex flex-col p-[20px] shadow-inset-less">
             <p className="w-[80%] text-[5rem] font-bold text-[#4793AF] p-[20px] max-sm:w-[100%] max-sm:text-[3rem]">Skills</p>
-            <div id="Skills" className="w-[100%] h-[80vh] max-sm:h-[fit-content] p-[20px] flex flex-wrap justify-center items-center gap-x-[2rem] gap-y-[2rem] px-[15vw]">
+            <div  className="w-[100%] h-[80vh] max-sm:h-[fit-content] p-[20px] flex flex-wrap justify-center items-center gap-x-[2rem] gap-y-[2rem] px-[15vw]">
                 <div className="w-[200px] h-[200px] flex flex-col items-center justify-center gap-y-[0.5rem] p-[30px] bg-[#4793AF] rounded-[8px] card-shadow">
                     <div className="w-[100] h-[90%]">
                         <img
